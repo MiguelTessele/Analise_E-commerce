@@ -151,7 +151,7 @@ Podemos observar que os dados continham inconsistências como:
 • Os dados sobre as vendas estavam separados por anos, dificultando a criação de uma linha temporal. A resolução foi unificar as tabelas.
 
 
-#Dashboard Interativo
+# Dashboard Interativo
 
 Com os dados devidamente organizados e coerentes, partimos para a elaboração de visualizações com dados estatísticos, que servirão como base para responder às questões propostas inicialmente. Foi necessário desenvolver medidas utilizando fórmulas DAX para melhor analisar os dados e extrair insights.
 
