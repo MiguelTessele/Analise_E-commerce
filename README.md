@@ -52,7 +52,7 @@ Após feitas as perguntas de negócio, as respostas fornecerão uma visão do co
 
 Os dados foram disponibilizados em arquivos Excel (“Base Devoluções”, “Base Vendas – 2020”, “Base Vendas – 2021”, “Base Vendas – 2022”, “Cadastro Clientes”, “Cadastro Localidades”, “Cadastro Lojas”, “Cadastro Produtos”), contendo as dimensões de Clientes, Localidade, Lojas e Produtos, como mostra a imagem abaixo.
 
- <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Base.png">
+ <img width="500" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Base.png">
 
 
 # Prototipação
@@ -61,28 +61,27 @@ Com base no entendimento do problema e nas necessidades dos indicadores que o cl
 
 <br />
 <div align="center">
-  <h4>Protótipo página 1</h4>
-  <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Pag_1_.png">
+  <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Pag_1_.png"><h4>Protótipo página 1</h4>
 </div>
 
 <div align="center">
-  <h4>Protótipo página 2</h4>
   <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Pag_2_.png">
+  <h4>Protótipo página 2</h4>
 </div>
 
 
 <div align="center">
-  <h4>Protótipo página 3</h4>
   <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Pag_3_.png">
+  <h4>Protótipo página 3</h4>
 </div>
 
 <div align="center">
-  <h4>Protótipo página 4</h4>
   <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Pag_4_.png">
+    <h4>Protótipo página 4</h4>
 </div>
 <div align="center">
-  <h4>Protótipo página 5</h4>
   <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Pag_5_.png">
+  <h4>Protótipo página 5</h4>
 </div>
 <br />
 
@@ -157,15 +156,30 @@ Com os dados devidamente organizados e coerentes, partimos para a elaboração d
 
 - [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/links/5LSdfFYlMi?ctid=f5a6833e-3f93-41ac-8092-ee06a0910899&pbi_source=linkShare)
 <br />
-![Pagina_1](https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Analise_Geral.png)
 
-![Pagina_2](https://github.com/MiguelTessele/Analise_Energia/blob/main/Vendas_Devolucoes.png)
-
-![Pagina_3](https://github.com/MiguelTessele/Analise_Energia/blob/main/Marcas_Produtos.png)
-
-![Pagina_4](https://github.com/MiguelTessele/Analise_Energia/blob/main/Lojas.png)
-
-![Pagina_5](https://github.com/MiguelTessele/Analise_Energia/blob/main/Clientes.png)
+<div align="center">
+  <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Analise_Geral.png">
+</div>
+<br />
+<div align="center">
+  <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Vendas_Devolucoes.png">
+</div>
+<br />
+<div align="center">
+  <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Marcas_Produtos.png">
+</div>
+<br />
+<div align="center">
+  <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Marcas_Produtos.png">
+</div>
+<br />
+<div align="center">
+  <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Lojas.png">
+  </div>
+ <br /> 
+<div align="center">
+  <img width="1000" alt="Imagem dados" src="https://github.com/MiguelTessele/Analise_E-Commerce/blob/main/Clientes.png">
+</div>
 <br />
 
 # Análises e Insights
