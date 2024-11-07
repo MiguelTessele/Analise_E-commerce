@@ -154,7 +154,7 @@ Podemos observar que os dados continham inconsistências como:
 
 Com os dados devidamente organizados e coerentes, partimos para a elaboração de visualizações com dados estatísticos, que servirão como base para responder às questões propostas inicialmente. Foi necessário desenvolver medidas utilizando fórmulas DAX para melhor analisar os dados e extrair insights.
 
-- [Clique aqui para visualizar o dashboard de maneira interativa]([https://app.powerbi.com/groups/me/reports/68b4e2ee-71fe-465f-9bdb-9e256ee14471/f2500ad506009ce63a82?experience=power-bi])
+- [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiMzNlNzBmZmItNGQ2Yy00OGQ5LTk5ZWUtNmQ2ZDNiNTE2OGMzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 <br />
 
 <div align="center">
